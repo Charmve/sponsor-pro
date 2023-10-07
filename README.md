@@ -1,7 +1,7 @@
 <h1 align='center'><code>Hi 👋🏼</code></h1>
 
 <code>
-
+  
 It's nice to have you here and thanks for sponsoring!
 
 Your sponsorships are meaning a lot to me as them support me focusing on maintaining my projects and dreaming up new ideas instead of worrying much about money.
@@ -14,9 +14,10 @@ You may also find my projects that already open-sourced in [my homepage](https:/
 
 [Sponsor me](https://github.com/sponsors/Charmve) if you like my work and get interested in this program.
 
-<br>
 <samp>Thank you.</samp><br>
 <samp>Charmve</samp>
+
+</code>
 
 <hr>
 
